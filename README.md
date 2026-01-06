@@ -1,36 +1,36 @@
 # Bandit-Passwords
-bandit0                          -> level 0
-ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If -> level 1
-263JGJPfgU6LtdEvgfWU1XP5yac29mFx -> level 2
-MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx -> level 3
-2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ -> level 4
-4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw -> level 5
-HWasnPhtq9AVKe0dmk45nxy20cvUa6EG -> level 6
-morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj -> level 7
-dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc -> level 8
-4CKMh1JI91bUIZZPXDqGanal4xvAg0JM -> level 9
-FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey -> level 10
-dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr -> level 11
-7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4 -> level 12
-FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn -> level 13
-MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS -> level 14 
-8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo -> level 15
-kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx -> level 16
-EReVavePLFHtFlFsjn3hyzMlvSuSAcRD -> level 17
-x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO -> level 18
-ssh -t bandit18@bandit.labs.overthewire.org -p 2220 '/bin/sh' -> loging to level 18 whithout byebye!
-cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8 -> level 19
-0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO -> level 20
-EeoULMCra2q0dSkYj561DX7s1CpBuOBt -> level 21
-tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q -> level 22
-0Zf11ioIjMVN551jX3CmStKLYqjk54Ga -> level 23
-gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8 -> level 24
-iCi86ttT4KSNe1armKiwbQNmB3YJP3q4 -> level 25
-s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ -> level 26
-upsNCc7vzaRDx6oZC6GiR6ERwe1MowGB -> level 27
-Yz9IpL0sBcCeuG7m9uQFt8ZNpS4HZRcN -> level 28
-4pT1t5DENaYuqnqvadYs1oE4QLCdjmJ7 -> level 29 
-qp30ex3VLz5MDG1n91YowTv4Q8l7CDZL -> level 30
-fb5S2xb7bRyFmAvQYQGEqsbhVyJqhnDy -> level 31
-3O9RfhqyAlVBEZpVb6LYStshZoqoSx5K -> level 32
-tQdtbs5D5i2vJwkO8mEyYEyTL8izoeJ0 -> level 33
+* bandit0                          -> level 0
+* ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If -> level 1
+* 263JGJPfgU6LtdEvgfWU1XP5yac29mFx -> level 2
+* MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx -> level 3
+* 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ -> level 4
+* 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw -> level 5
+* HWasnPhtq9AVKe0dmk45nxy20cvUa6EG -> level 6
+* morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj -> level 7
+* dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc -> level 8
+* 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM -> level 9
+* FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey -> level 10
+* dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr -> level 11
+* 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4 -> level 12
+* FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn -> level 13
+* MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS -> level 14 
+* 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo -> level 15
+* kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx -> level 16
+* EReVavePLFHtFlFsjn3hyzMlvSuSAcRD -> level 17
+* x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO -> level 18
+* ssh -t bandit18@bandit.labs.overthewire.org -p 2220 '/bin/sh' -> loging to level 18 whithout byebye!
+* cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8 -> level 19
+* 0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO -> level 20
+* EeoULMCra2q0dSkYj561DX7s1CpBuOBt -> level 21
+* tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q -> level 22
+* 0Zf11ioIjMVN551jX3CmStKLYqjk54Ga -> level 23
+* gb8KRRCsshuZXI0tUuR6ypOFjiZbf3G8 -> level 24
+* iCi86ttT4KSNe1armKiwbQNmB3YJP3q4 -> level 25
+* s0773xxkk0MXfdqOfPRVr9L3jJBUOgCZ -> level 26
+* upsNCc7vzaRDx6oZC6GiR6ERwe1MowGB -> level 27
+* Yz9IpL0sBcCeuG7m9uQFt8ZNpS4HZRcN -> level 28
+* 4pT1t5DENaYuqnqvadYs1oE4QLCdjmJ7 -> level 29 
+* qp30ex3VLz5MDG1n91YowTv4Q8l7CDZL -> level 30
+* fb5S2xb7bRyFmAvQYQGEqsbhVyJqhnDy -> level 31
+* 3O9RfhqyAlVBEZpVb6LYStshZoqoSx5K -> level 32
+* tQdtbs5D5i2vJwkO8mEyYEyTL8izoeJ0 -> level 33
